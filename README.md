@@ -12,11 +12,8 @@
 <a href="https://sarunas-simanaitis-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20website-55D6C2?style=for-the-badge&labelColor=121820" alt="Portfolio" />
 </a>
-<a href="https://www.linkedin.com/in/sarunassimanaitis">
+<a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-8B7CFF?style=for-the-badge&labelColor=121820" alt="LinkedIn" />
-</a>
-<a href="https://github.com/SarunasSimanaitis">
-  <img src="https://img.shields.io/badge/GITHUB-Explore%20my%20work-E8EDF2?style=for-the-badge&labelColor=121820" alt="GitHub" />
 </a>
 
 </div>
@@ -80,8 +77,6 @@ const developer = {
 <a href="https://sarunas-simanaitis-portfolio.vercel.app/">Portfolio</a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/sarunassimanaitis">LinkedIn</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/SarunasSimanaitis">GitHub</a>
 
 <sub>Designed with care · Built one project at a time</sub>
 
