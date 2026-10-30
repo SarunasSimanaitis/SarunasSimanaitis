@@ -33,22 +33,34 @@ I care about the details that make software feel good to use: clear interfaces, 
 
 ## Selected work
 
-<div align="center">
+A few projects I've been working on. Each repository includes more detail, implementation notes and setup instructions.
 
-<a href="https://github.com/SarunasSimanaitis/frictionless-notes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarunasSimanaitis&repo=frictionless-notes&theme=github_dark&hide_border=true&bg_color=121820&title_color=55D6C2&icon_color=8B7CFF&text_color=CBD5E1" alt="Frictionless Notes repository card" />
-</a>
-<a href="https://github.com/SarunasSimanaitis/MoosclesPro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarunasSimanaitis&repo=MoosclesPro&theme=github_dark&hide_border=true&bg_color=121820&title_color=55D6C2&icon_color=8B7CFF&text_color=CBD5E1" alt="MoosclesPro repository card" />
-</a>
-<a href="https://github.com/SarunasSimanaitis/sarunas-simanaitis-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarunasSimanaitis&repo=sarunas-simanaitis-portfolio&theme=github_dark&hide_border=true&bg_color=121820&title_color=55D6C2&icon_color=8B7CFF&text_color=CBD5E1" alt="Portfolio repository card" />
-</a>
-<a href="https://github.com/SarunasSimanaitis/Student-Registration-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SarunasSimanaitis&repo=Student-Registration-System&theme=github_dark&hide_border=true&bg_color=121820&title_color=55D6C2&icon_color=8B7CFF&text_color=CBD5E1" alt="Student Registration System repository card" />
-</a>
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SarunasSimanaitis/frictionless-notes">Frictionless Notes</a></h3>
+      <p>An offline-first notes and checklist app built around simple, frustration-free interactions.</p>
+      <sub>React Native · TypeScript · Expo · SQLite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SarunasSimanaitis/MoosclesPro">MoosclesPro</a></h3>
+      <p>A fitness tracking application for planning workouts, building routines and tracking progress.</p>
+      <sub>React · TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SarunasSimanaitis/sarunas-simanaitis-portfolio">Personal Portfolio</a></h3>
+      <p>My personal website for presenting projects, skills and frontend development work.</p>
+      <sub>React · TypeScript · Tailwind CSS · Vite</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/SarunasSimanaitis/Student-Registration-System">Student Registration System</a></h3>
+      <p>A student project focused on managing student registration information.</p>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
 ## Tools I work with
 
@@ -76,7 +88,7 @@ const developer = {
 
 <a href="https://sarunas-simanaitis-portfolio.vercel.app/">Portfolio</a>
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/sarunassimanaitis">LinkedIn</a>
+<a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/">LinkedIn</a>
 
 <sub>Designed with care · Built one project at a time</sub>
 
