@@ -1,95 +1,35 @@
-<!--
-  Šarūnas Simanaitis — GitHub profile
-  Dark editorial style with a little colour and personality.
--->
+# Šarūnas Simanaitis — Frontend & Mobile Engineer
 
-<div align="center">
+[![LinkedIn](https://shields.io)](https://linkedin.com) 
+[![Portfolio](https://shields.io)](https://vercel.app)
 
-<img src="./assets/profile-banner.svg" alt="Šarūnas Simanaitis — Frontend Developer" width="100%" />
+I am a Frontend and Mobile Engineer focused on building clean, highly performant, and reliable applications using React, TypeScript, and React Native. I bridge the gap between complex client-side logic and smooth user experiences, with practical exposure to Node.js backends and offline-first mobile databases.
 
-<br />
-
-<a href="https://sarunas-simanaitis-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20website-55D6C2?style=for-the-badge&labelColor=121820" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-8B7CFF?style=for-the-badge&labelColor=121820" alt="LinkedIn" />
-</a>
-
-</div>
+- 💻 **Core Architecture:** React (including React 19 features), TypeScript, React Native & Expo.
+- 🗄️ **Data & State:** Zustand, React Router, REST APIs, SQLite, and MongoDB.
+- ⚙️ **Workflow & Tooling:** Vite, Tailwind CSS v4, Git/GitHub, CI/CD deployment via Vercel.
 
 ---
 
-## A little about me
+## 🛠️ Selected Engineering Work
 
-I'm a frontend developer who enjoys turning ideas into useful, well-crafted digital products.
+### 📱 [Frictionless Notes](https://github.com)
+An offline-first mobile notes application built to eliminate latency and dependency on network connectivity.
+- **Tech Stack:** React Native, TypeScript, Expo, SQLite.
+- **Core Architecture:** Implemented direct local storage querying via SQLite for zero-lag data persistence, customized rich-text formatting layers, and asynchronous local notification reminders.
 
-I care about the details that make software feel good to use: clear interfaces, thoughtful interactions, maintainable code and performance. I enjoy learning by building, getting hands-on with problems and improving a product through iteration.
+### 🏋️ [MoosclesPro](https://github.com)
+A data-driven fitness tracking web application focused on complex local state management and user performance metrics.
+- **Tech Stack:** React, TypeScript, Tailwind CSS, React Router, Zustand.
+- **Core Architecture:** Utilized decoupled Zustand stores for scalable state management across multi-step workout logging workflows, performance-optimized rest timers, and localized routine persistence.
 
-- **Currently focused on:** React, TypeScript and modern frontend development
-- **Also exploring:** React Native, Expo and mobile app development
-- **Based in:** Poland
-- **Portfolio:** [sarunas-simanaitis-portfolio.vercel.app](https://sarunas-simanaitis-portfolio.vercel.app/)
+---
 
-## Selected work
-
-A few projects I've been working on. Each repository includes more detail, implementation notes and setup instructions.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SarunasSimanaitis/frictionless-notes">Frictionless Notes</a></h3>
-      <p>An offline-first notes and checklist app built around simple, frustration-free interactions.</p>
-      <sub>React Native · TypeScript · Expo · SQLite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SarunasSimanaitis/MoosclesPro">MoosclesPro</a></h3>
-      <p>A fitness tracking application for planning workouts, building routines and tracking progress.</p>
-      <sub>React · TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SarunasSimanaitis/sarunas-simanaitis-portfolio">Personal Portfolio</a></h3>
-      <p>My personal website for presenting projects, skills and frontend development work.</p>
-      <sub>React · TypeScript · Tailwind CSS · Vite</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SarunasSimanaitis/Student-Registration-System">Student Registration System</a></h3>
-      <p>A student project focused on managing student registration information.</p>
-      <sub>JavaScript</sub>
-    </td>
-  </tr>
-</table>
-
-## Tools I work with
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,git,github,vscode,reactnative,expo&perline=6" alt="HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Vite, Git, GitHub, VS Code, React Native and Expo" />
-
-</div>
-
-## What I'm about
-
-```ts
-const developer = {
-  mindset: ["Curious", "Practical", "Always learning"],
-  priorities: ["Usability", "Clean code", "Thoughtful details"],
-  learningBy: "Building real projects",
+## 🧠 Engineering Philosophy
+```javascript
+const engineer = {
+  mindset: ["Product-focused", "Performance-driven", "Continuous iteration"],
+  priorities: ["Type safety", "Clean state architecture", "Fluid UI interactions"],
+  execution: "Building maintainable, production-ready applications"
 };
 ```
-
----
-
-<div align="center">
-
-**Have an interesting project or opportunity? Let's talk.**
-
-<a href="https://sarunas-simanaitis-portfolio.vercel.app/">Portfolio</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/">LinkedIn</a>
-
-<sub>Designed with care · Built one project at a time</sub>
-
-</div>
