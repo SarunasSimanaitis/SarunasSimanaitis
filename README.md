@@ -7,9 +7,6 @@
   <a href="https://sarunas-simanaitis-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
   </a>
-  <a href="https://github.com/SarunasSimanaitis" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
 </p>
 
 I am a Frontend and Mobile Engineer focused on building clean, highly performant, and reliable applications using React, TypeScript, and React Native. I bridge the gap between complex client-side logic and smooth user experiences, with practical exposure to Node.js backends and offline-first mobile databases.
