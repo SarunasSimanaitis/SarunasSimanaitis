@@ -1,9 +1,14 @@
 # Šarūnas Simanaitis — Frontend & Mobile Engineer
 
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/))
-[![Portfolio](https://shields.io)]([httpsp://vercel.ap](https://sarunas-simanaitis-portfolio.vercel.app/))
-[![CI Status](https://github.com)]([https://github.com](https://github.com/SarunasSimanaitis/MoosclesPro/blob/main/.github/workflows/ci.yml))
-
+<a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="https://sarunas-simanaitis-portfolio.vercel.app/" target="_blank">
+  <img src="https://shields.io" alt="Portfolio" />
+</a>
+<a href="https://github.com" target="_blank">
+  <img src="https://github.com/badge.svg" alt="CI Status" />
+</a>
 
 I am a Frontend and Mobile Engineer focused on building clean, highly performant, and reliable applications using React, TypeScript, and React Native. I bridge the gap between complex client-side logic and smooth user experiences, with practical exposure to Node.js backends and offline-first mobile databases.
 
