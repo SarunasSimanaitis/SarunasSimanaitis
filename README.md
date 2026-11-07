@@ -19,6 +19,8 @@ An offline-first mobile notes application built to eliminate latency and depende
 - **Core Architecture:** Implemented direct local storage querying via SQLite for zero-lag data persistence, customized rich-text formatting layers, and asynchronous local notification reminders.
 
 ### 🏋️ [MoosclesPro](https://github.com)
+[![Continuous Integration](https://github.com)](https://github.com)
+
 A data-driven fitness tracking web application focused on complex local state management and user performance metrics.
 - **Tech Stack:** React, TypeScript, Tailwind CSS, React Router, Zustand.
 - **Core Architecture:** Utilized decoupled Zustand stores for scalable state management across multi-step workout logging workflows, performance-optimized rest timers, and localized routine persistence.
