@@ -1,8 +1,9 @@
 # Šarūnas Simanaitis — Frontend & Mobile Engineer
 
-[![LinkedIn](https://shields.io)](https://linkedin.com) 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Portfolio](https://shields.io)](https://vercel.app)
 [![CI Status](https://github.com)](https://github.com)
+
 
 I am a Frontend and Mobile Engineer focused on building clean, highly performant, and reliable applications using React, TypeScript, and React Native. I bridge the gap between complex client-side logic and smooth user experiences, with practical exposure to Node.js backends and offline-first mobile databases.
 
