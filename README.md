@@ -43,7 +43,12 @@ A notes and checklist app built around one idea: **the app should adapt to you, 
 
 ### 🏋️ [MoosclesPro](https://github.com/SarunasSimanaitis/MoosclesPro) — full-stack workout tracker
 
-<img src="https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/MoosclesPro_Dashboard.png" alt="MoosclesPro dashboard" width="100%">
+<p>
+  <a href="https://mooscles-pro.vercel.app/"><img src="https://img.shields.io/badge/%E2%96%B6%20Try%20the%20live%20demo-mooscles--pro.vercel.app-22c55e?style=for-the-badge" alt="Try the live demo"></a>
+  <a href="https://github.com/SarunasSimanaitis/MoosclesPro"><img src="https://img.shields.io/badge/Source%20code-GitHub-181717?style=for-the-badge&logo=github" alt="Source code"></a>
+</p>
+
+<a href="https://mooscles-pro.vercel.app/"><img src="https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/MoosclesPro_Dashboard.png" alt="MoosclesPro dashboard" width="100%"></a>
 
 A workout app built around one loop: **plan a workout → log every set → finish the session → learn from your history.**
 
@@ -55,8 +60,6 @@ A workout app built around one loop: **plan a workout → log every set → fini
 - **Vitest** unit tests that run in **GitHub Actions** on every push
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Better Auth` `MongoDB` `Vercel` `Vitest`
-
-**[▶ Live demo]([https://YOUR-MOOSCLESPRO-URL.vercel.app](https://mooscles-pro.vercel.app/))** · demo login: demo@example.com / demo1234
 
 ### 💰 [Biiudzetas](https://github.com/xHeptc/Biiudzetas) — team-built personal finance app (TechIn internship)
 
