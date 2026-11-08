@@ -18,8 +18,8 @@ I build web and mobile apps, and I like making everyday things a little easier t
 
 - Right now I'm working on **Frictionless Notes**, a notes app for Android and iOS.
 - Before that I was a front-end intern at **TechIn** in Vilnius, building the screens of a finance app with a team.
-- I speak English (C1–C2), Lithuanian (native), Russian and Croatian.
-- I'm looking for a front-end or React Native job. Email me at sarunassimanaitis@gmail.com.
+- I speak English (C1–C2), Lithuanian (native), currently learning Polish
+- I'm looking for a developer job. Contact me at sarunassimanaitis@gmail.com.
 
 ---
 
