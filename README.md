@@ -32,7 +32,7 @@ I build web and mobile apps, and I like making everyday things a little easier t
   <a href="https://github.com/SarunasSimanaitis/MoosclesPro"><img src="https://img.shields.io/badge/Source%20code-GitHub-181717?style=for-the-badge&logo=github" alt="Source code"></a>
 </p>
 
-<a href="https://mooscles-pro.vercel.app/"><img src="https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/MoosclesPro_Dashboard.png" alt="MoosclesPro dashboard" width="100%"></a>
+<a href="https://mooscles-pro.vercel.app/"><img src="[https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/MoosclesPro_Dashboard.png](https://github.com/SarunasSimanaitis/MoosclesPro/blob/main/screenshots/mooscles-pro.vercel.app_.png)" alt="MoosclesPro dashboard" width="100%"></a>
 
 Plan a workout, log every set, and see how you're improving over time.
 
