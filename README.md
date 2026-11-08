@@ -56,7 +56,7 @@ A workout app built around one loop: **plan a workout → log every set → fini
 
 `React` `TypeScript` `Vite` `Tailwind CSS` `Zustand` `Better Auth` `MongoDB` `Vercel` `Vitest`
 
-<!-- TODO: add your live link here, e.g.  **[▶ Live demo](https://YOUR-MOOSCLESPRO-URL.vercel.app)** · demo login: demo@example.com / demo1234 -->
+**[▶ Live demo]([https://YOUR-MOOSCLESPRO-URL.vercel.app](https://mooscles-pro.vercel.app/))** · demo login: demo@example.com / demo1234
 
 ### 💰 [Biiudzetas](https://github.com/xHeptc/Biiudzetas) — team-built personal finance app (TechIn internship)
 
