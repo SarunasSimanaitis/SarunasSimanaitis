@@ -14,7 +14,7 @@
 
 ---
 
-I build web and mobile apps, and I like making everyday things a little easier to use: fewer taps, nothing that pops up when you don't want it.
+I build web and mobile apps, and I like making everyday things a little easier to use: fewer taps, nothing that pops up when you don't want it. If an app makes life harder, it's badly designed. It should just work.
 
 - Right now I'm working on **Frictionless Notes**, a notes app for Android and iOS.
 - Before that I was a front-end intern at **TechIn** in Vilnius, building the screens of a finance app with a team.
