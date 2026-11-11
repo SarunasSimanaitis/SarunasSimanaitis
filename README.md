@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://sarunas-simanaitis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1726?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/%C5%A1ar%C5%ABnassimanaitis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sarunassimanaitis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sarunassimanaitis@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -32,12 +32,13 @@ I build web and mobile apps, and I like making everyday things a little easier t
   <a href="https://github.com/SarunasSimanaitis/MoosclesPro"><img src="https://img.shields.io/badge/Source%20code-GitHub-181717?style=for-the-badge&logo=github" alt="Source code"></a>
 </p>
 
-<a href="https://mooscles-pro.vercel.app/"><img src="[https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/MoosclesPro_Dashboard.png](https://github.com/SarunasSimanaitis/MoosclesPro/blob/main/screenshots/mooscles-pro.vercel.app_.png)" alt="MoosclesPro dashboard" width="100%"></a>
+<a href="https://mooscles-pro.vercel.app/"><img src="https://raw.githubusercontent.com/SarunasSimanaitis/MoosclesPro/main/screenshots/dashboard.png" alt="MoosclesPro dashboard" width="100%"></a>
 
 Plan a workout, log every set, and see how you're improving over time.
 
 - Save your routines and reuse them. Last time's weights and reps are filled in for you.
-- Workout and rest timers. If you refresh the page mid-workout, you carry on where you left off.
+- Every exercise on one screen, with last time's sets next to each one and an optional RPE.
+- A rest timer per exercise that keeps counting if you refresh or lock your phone.
 - Stats for total volume, streaks and workout history.
 - Accounts and login. Each user can only ever see their own data, and the server checks this on every request.
 - Tests run automatically on GitHub every time I push code.
